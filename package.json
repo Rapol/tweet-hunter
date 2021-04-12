@@ -1,0 +1,22 @@
+{
+  "name": "twitter-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.884.0",
+    "snoowrap": "^1.22.0",
+    "tesseract.js": "^2.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "serverless": "^2.35.0"
+  }
+}
